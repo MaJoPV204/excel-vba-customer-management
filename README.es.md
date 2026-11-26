@@ -32,6 +32,40 @@ Este proyecto transforma un ejercicio académico de programación en una aplicac
 | Cálculo de edad | Estimar automáticamente la edad |
 | Interfaz personalizada | Identidad visual de Ditsö Arts & Craft |
 
+
+## Demostración visual del sistema
+
+### Interfaz de registro de clientes
+
+Formulario personalizado en Excel, diseñado con la identidad visual de Ditsö Arts & Craft.
+
+![Interfaz principal](screenshots/01_main_interface.png.png)
+
+### Registro de clientes
+
+Ingreso de información mediante un formulario estructurado y automatizado con macros VBA.
+
+![Registro de clientes](screenshots/02_customer_registration.png.png)
+
+### Base de datos
+
+Almacenamiento estructurado de los registros de clientes en una hoja de cálculo independiente.
+
+![Base de datos](screenshots/03_database.png.png)
+
+### Validación de códigos duplicados
+
+Validación automática para evitar el registro de clientes con identificadores duplicados.
+
+![Validación de duplicados](screenshots/04_validation.png.png)
+
+### Código fuente VBA
+
+Implementación de procedimientos automatizados mediante Visual Basic for Applications.
+
+![Editor de VBA](screenshots/05_vba_editor.png.png)
+
+
 ## Tecnologías utilizadas
 
 - Microsoft Excel
