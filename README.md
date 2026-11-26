@@ -37,6 +37,41 @@ This project transforms an academic programming exercise into a practical busine
 | Age calculation | Automatically estimate customer age |
 | Custom interface | Ditsö Arts & Craft branding |
 
+
+
+## Application Preview
+
+### Customer Registration Interface
+
+Customized Excel interface featuring the Ditsö Arts & Craft visual identity.
+
+![Main Interface](screenshots/01_main_interface.png.png)
+
+### Customer Registration
+
+Customer information entry through a structured registration form.
+
+![Customer Registration](screenshots/02_customer_registration.png.png)
+
+### Customer Database
+
+Structured storage of customer records.
+
+![Customer Database](screenshots/03_database.png.png)
+
+### Duplicate ID Validation
+
+Automatic validation to prevent duplicate customer records.
+
+![Validation](screenshots/04_validation.png.png)
+
+### VBA Source Code
+
+Implementation of automated procedures using Visual Basic for Applications.
+
+![VBA Editor](screenshots/05_vba_editor.png.png)
+
+
 ## Technologies Used
 
 - Microsoft Excel
